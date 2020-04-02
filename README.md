@@ -20,4 +20,6 @@ The authors provide this description of the dataset:
 
 `05-laser.ipynb`introduces LASER, a single set of multilingual word embeddings.
 
-`06-multilingual-bert.ipynb` introduces transformer models in general and multilingual BERT, a large language model pre-trained on many languages including Arabic.
+`06-lstms.ipynb` introduces LSTMs, a type of neural network that works well for text classification, and builds an LSTM from scratch using both `pytorch` and `tensorflow`.
+
+`07-multilingual-bert.ipynb` introduces transformer models in general and multilingual BERT, a large language model pre-trained on many languages including Arabic.
