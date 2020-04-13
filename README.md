@@ -1,5 +1,5 @@
 # arabic-nlp
-This repo explores the value of several common text classification techniques for an Arabic language dataset. It also serves as an introduction to those techniques for a reader who has basic or intermediate Python skills but little familiarity with machine learning and text classification.
+This repo explores the value of several common text classification techniques for an Arabic language dataset. It also serves as an introduction to those techniques for a reader who has basic or intermediate Python skills but little familiarity with text classification.
 
 Each notebook also digs into the data to offer some thoughts on what types of text provide a challenge for each text classification approach. **But you don't need to understand any Arabic to (hopefully) benefit from the explanations of machine learning and text classification!**
 
@@ -20,6 +20,6 @@ The authors provide this description of the dataset:
 
 `05-laser.ipynb`introduces LASER, a single set of multilingual word embeddings.
 
-`06-lstms.ipynb` introduces LSTMs, a type of neural network that works well for text classification, and builds an LSTM from scratch using both `pytorch` and `tensorflow`.
+`06-lstms.ipynb` introduces LSTMs, a type of neural network that works well for text classification, and builds an LSTM from scratch using keras.
 
 `07-multilingual-bert.ipynb` introduces transformer models in general and multilingual BERT, a large language model pre-trained on many languages including Arabic.
